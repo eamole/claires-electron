@@ -1,0 +1,281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 5319,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Dev/claire/mendicity-electron/start-electron.js",
+		"/C/Dev/claire/mendicity-express/npm-debug.log",
+		"/C/Dev/claire/mendicity-express/node_modules/mongoskin/package.json",
+		"/C/Dev/claire/mendicity-express/package.json",
+		"/C/Dev/claire/mendicity-express/app.js",
+		"/C/Dev/claire/mendicity/npm-debug.log",
+		"/C/Dev/claire/mendicity/views/layout.jade",
+		"/C/Dev/claire/mendicity/views/index.jade",
+		"/C/Dev/claire/mendicity/main.js",
+		"/C/Dev/claire/mendicity/start-electron.js",
+		"/C/Dev/claire/mendicity/views/startscreen.jade",
+		"/C/Dev/claire/mendicity/routes/index.js",
+		"/C/Users/eamole/AppData/Roaming/npm-cache/electron-prebuilt/0.37.6/package/package.json",
+		"/C/Users/eamole/AppData/Roaming/Sublime Text 3/Packages/User/CoffeeCompile.sublime-settings",
+		"/C/Dev/claire/mendicity/views/whatismendicity.jade",
+		"/C/Program Files/nodejs/node_etw_provider.man",
+		"/C/Program Files/nodejs/node_modules/npm/lib/xmas.js",
+		"/C/Program Files/nodejs/node_modules/npm/doc/cli/npm.md",
+		"/C/Program Files/nodejs/node_modules/npm/doc/api/npm.md",
+		"/C/Users/eamole/AppData/Roaming/Sublime Text 3/Packages/CoffeeCompile/CoffeeCompile.sublime-settings",
+		"/F/Dev/Projects/platform_test/platform/watcher.coffee",
+		"/C/Users/eamole/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/F/Dev/Projects/platform_test/platform/test.coffee",
+		"/F/Dev/Projects/platform_test/platform/node_modules/chokidar/index.js",
+		"/F/Dev/Projects/test_heroku/node-js-getting-started/README.md",
+		"/F/Dev/Projects/test_heroku/node-js-getting-started/.gitignore",
+		"/F/Dev/Projects/platform_test/platform/watcher.js",
+		"/F/Dev/Projects/test_express/node-js-getting-started/.env",
+		"/F/Dev/Projects/test_express/node-js-getting-started/package.json",
+		"/F/Dev/Projects/test_express/node-js-getting-started/index.js",
+		"/C/Program Files (x86)/Heroku/lib/heroku/api/domains_v3_domain_cname.rb",
+		"/C/Program Files (x86)/Heroku/lib/heroku/api/apps_v3.rb",
+		"/C/Program Files (x86)/Heroku/lib/heroku/command/local.rb",
+		"/F/Dev/Projects/test_express/app/views/index.ejs",
+		"/C/Program Files/MongoDB/Server/3.0/bin/mongod.cfg",
+		"/F/mongodb/mongod.cfg",
+		"/C/Program Files (x86)/Heroku/lib/vendor/heroku/okjson.rb",
+		"/F/Dev/Projects/test_express/app/routes/index.js",
+		"/F/Dev/Projects/test_express/coffee1/app/app.js",
+		"/F/Dev/Projects/test_express/proj1/app.js",
+		"/F/Dev/Projects/test_express/views/index.ejs",
+		"/F/Dev/Projects/test_express/app.js",
+		"/F/Dev/Projects/test_express/public/bootstrap.css",
+		"/C/Users/eamole/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/F/Dev/Projects/test_express/views/index,ejs",
+		"/F/Dev/Projects/test_express/node_modules/app.js",
+		"/F/Dev/Projects/test_express/node_modules/app.js.txt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"skin",
+			"name",
+			"\n{"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2976,
+								2976
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1447.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Dev\\claire\\mendicity-express\\sublime.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
